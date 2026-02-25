@@ -57,6 +57,7 @@ While the current ACI deployment is excellent for agile development and testing,
 In the future, I recommend upgrading the deployment target to **Azure Kubernetes Service (AKS)**. AKS provides superior horizontal scalability, advanced load balancing, and stricter security controls (like tighter RBAC integration), which are absolute standards when handling financial data and unpredictable API traffic from global marketing teams.
 
 ## Video Demonstration
+https://youtu.be/juCupk1Nxmk 
 
 
 
